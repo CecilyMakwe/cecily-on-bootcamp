@@ -1,0 +1,28 @@
+{
+  "name": "javascript-assignments",
+  "version": "1.0.0",
+  "main": "index.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/CecilyMakwe/cecily-on-bootcamp.git"
+  },
+  "bugs": {
+    "url": "https://github.com/CecilyMakwe/cecily-on-bootcamp/issues"
+  },
+  "homepage": "https://github.com/CecilyMakwe/cecily-on-bootcamp#readme",
+  "dependencies": {
+    "chai": "^3.5.0",
+    "expect": "^1.20.2",
+    "should": "^11.1.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
